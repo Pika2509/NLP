@@ -1,6 +1,6 @@
 Literature review on twitter sentiment analysis
 
-Aliza Sarlan, Chayanit Nadam, Shuib Basri, "Twitter sentiment analysis" 2014 International Conference of Information technology and multimedia(ICIMU).
+A. Sarlan, C. Nadam, S. Basri, "Twitter sentiment analysis" 2014 International Conference of Information technology and multimedia(ICIMU).
 Their study presents categorization of the data into negative and positive sentiments which are futhur visualized in the form of pie chart 
 
 N. Yadav, O. Kudale, S. Gupta, A. Rao, "Twitter sentiment analysis using machine learning for product evaluation" proceedings of 5th international confernce on Inventive Communication technologies
